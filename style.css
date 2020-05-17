@@ -1,0 +1,54 @@
+body{
+    background-color: gainsboro;
+}
+h2{
+    color: red;
+    text-align: center;
+    text-decoration-style: solid;
+    
+}
+h3{
+    text-align: center;
+    
+}
+.chicken{
+    padding: 10px auto 10px;
+    background-color: burlywood;
+    margin: 10px;
+    padding: 0px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    float: left;
+}
+.Shushi{
+    background-color: burlywood;
+    margin: 10px;
+    padding: 0px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    float: left;
+    
+}
+.Beef{
+    background-color: burlywood;
+    margin: 10px;
+    padding: 0px;
+    border: 2px solid black;
+    box-sizing: border-box;
+    float: left;
+}
+.text{
+    color: white;
+}
+.hidden-xs:hover{
+    color: white;
+}
+p{
+    padding-top: 10px;
+}
+.navbar-brand{
+    color: white;
+}
+.container-fluid{
+    background-color: grey;
+}
